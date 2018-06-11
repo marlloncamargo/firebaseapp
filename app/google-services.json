@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81792710778",
+    "firebase_url": "https://marllon-ff79e.firebaseio.com",
+    "project_id": "marllon-ff79e",
+    "storage_bucket": "marllon-ff79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81792710778:android:86cab36349b949dd",
+        "android_client_info": {
+          "package_name": "com.firebaseapp.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81792710778-tkudtqrn1npkdft1353u8v7f8apg1f0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FxTZ34vJiStpLeI92poss2gpPTTsVKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
